@@ -1,4 +1,4 @@
-## Bem-Vindo ao meu perfil! Sou o Luan Andrade 😄
+## Bem-Vindo ao meu perfil! 😄
 
 <p>⭐ Cursando Sistemas de Informação na UFSC</p>
 <p>⭐ Desenvolvedor Python/Java</p>
