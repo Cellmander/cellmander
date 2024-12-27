@@ -1,7 +1,7 @@
 ## Bem-Vindo ao meu perfil! 😄
 
 <p>⭐ Cursando Sistemas de Informação na UFSC</p>
-<p>⭐ Desenvolvedor Python/Java</p>
+<p>⭐ Desenvolvedor Python/Kotlin</p>
 <p>⭐ Estusiasta de tecnologia, inteligência artificial e segurança de dados</p>
 
 ## Stack de tecnologias
