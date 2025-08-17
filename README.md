@@ -1,10 +1,6 @@
-## Bem-Vindo ao meu perfil! 😄
+## Welcome to my profile! 😄
 
-<p>⭐ Cursando Sistemas de Informação na UFSC</p>
-<p>⭐ Desenvolvedor Python/Kotlin</p>
-<p>⭐ Estusiasta de tecnologia, inteligência artificial e segurança de dados</p>
-
-## Stack de tecnologias
+## Tech Stack
 
 <div style='display: inline_block'><br/>
   <img alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
